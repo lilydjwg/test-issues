@@ -1,4 +1,5 @@
 name: 🐞 过期软件包 / out-of-date packages
+description: 过期软件包 / out-of-date packages
 title: "[BUG] <title>"
 labels: [Bug, Needs Triage]
 body:
