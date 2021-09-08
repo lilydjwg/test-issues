@@ -1,7 +1,6 @@
-name: Bug Report
-description: File a bug report
-title: "[Bug]: "
-labels: [bug, triage]
+name: 过期软件包 / out-of-date packages
+title: "[out-of-date]: "
+labels: [out-of-date]
 assignees:
   - octocat
 body:
