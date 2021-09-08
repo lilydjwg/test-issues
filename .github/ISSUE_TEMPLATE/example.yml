@@ -1,4 +1,4 @@
-name: 过期软件包 / out-of-date packages
+name: out-of-date packages
 description: File a bug report
 title: "[Bug]: "
 labels: [bug, triage]
