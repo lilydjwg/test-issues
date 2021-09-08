@@ -1,4 +1,5 @@
-name: 🪶 过期软件包 / out-of-date packages
+name: 过期软件包 / out-of-date packages
+description: 过期软件包 / out-of-date packages
 title: "[out-of-date]: "
 labels: [out-of-date]
 body:
